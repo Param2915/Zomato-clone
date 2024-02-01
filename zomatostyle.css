@@ -71,6 +71,7 @@ body{
 	padding: 12px 0;
 	margin-left: -208px;
 	background-color: white;
+	transition: ease-in;
 
 }
 
@@ -452,6 +453,18 @@ input[type='radio']{
 	border: 1px solid rgb(22, 22, 60);
 	background-color: rgb(22, 22, 60);
 	border-radius: 20px;
+}
+
+.apps img{
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 40px;
+	background-color: aliceblue;
+	padding: 2px;
+	border-radius: 10px;
+	
+	border: none;
 }
 
 .footer{
